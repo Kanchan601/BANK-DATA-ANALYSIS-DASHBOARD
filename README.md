@@ -2,7 +2,7 @@
 This project focuses on analyzing banking and financial data to uncover key business insights. Using Excel, Power BI, and MySQL, the project involves data cleaning, visualization, and querying to support better decision-making in banking operations.
 
 ## Key Highlights of the Project:
-• Tools Used: Excel | Power BI | MySQL
+### Tools Used: Excel | Power BI | MySQL
 • Objective: Clean, analyze, and visualize banking datasets to uncover customer behavior patterns.
 • Dashboards Built: Interactive reports for loan analytics, customer segmentation, and branch-level performance.
 • SQL Queries: Extracted & aggregated key metrics to support business decisions.
